@@ -1,7 +1,7 @@
 <?php
 // Połączenie z bazą danych MySQL
 $host = 'localhost';
-$user = 'root';
+$user = 'root';asdasd
 $password = '';
 $dbname = 'test_db';
 
